@@ -73,6 +73,52 @@
     padding-left: 50px;
     margin-top: 10px;
 }
+
+.info-adr {
+    margin-top: 70px;
+    height: 300px;
+}
+
+.info-adr__map {
+    display: inline-block;
+    vertical-align: top;
+    height: 100%;
+    width: 500px;
+    border: 1px solid #cecece;
+    border-radius: 15px;
+}
+
+.info-adr__instructions {
+    display: inline-block;
+    vertical-align: top;
+    width:210px;
+    height: 100%;
+    margin-left: 25px;
+    font-weight: 300;
+    line-height: 1em;
+}
+
+.instructions-text {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    padding-top: 20px;
+}
+
+.town {
+    font-weight: 400;
+}
+.more-recviz a{
+    text-decoration: none;
+    border-bottom: 1px dashed;
+    color: #238dcd;
+}
+
+.info__write-personal {
+    border: 1px solid;
+    height: 200px;
+    margin-top: 30px;
+}
+
 .empty-clear {
     height: 1px;
     width: 100%;
